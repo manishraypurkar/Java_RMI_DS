@@ -1,1 +1,6 @@
-# Java_RMI_DS
+# Java_RMI_DS_To Implement the Bubble Sort Algorithm in Distributed Systems using RMI (Remote Method Invocation)
+
+
+In the proposed system, the client Program sends input unsorted array as request to server class for sorting array.And server accept request and use the bubble sort algorithms to sorting the input array, Finally sent the sorted array to server and it will print the sorted array on output window.
+
+RMI stands for Remote Method Invocation. It is a mechanism that allows an object residing in one system (JVM) to access/invoke an object running on another JVM. RMI is used to build distributed applications; it provides remote communication between Java programs. Distributed System consists of multiple autonomous computers thatcommunicate through a computer network. These computers interact with each other in order to achieve a common goal. The computer application or program which runs on a distributed system is called distributed program.The process of writing the distributed program is called Distributed Programming. It is a system where the information processing is distributed over several computers rather than confined to single machine. Distributed systems are the internet-based applications which have two types of computersystems- Server node and Client node.
